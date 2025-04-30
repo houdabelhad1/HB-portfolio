@@ -58,7 +58,7 @@ export default function Portfolio() {
       <div className="md:w-1/2 text-center md:text-left">
         <h1 className="font-roboto-mono text-3xl md:text-5xl font-bold mb-6 leading-tight">
           Houda Belhad <span className="block md:inline">|</span>{" "}
-          <span className="text-[#2563EB]">FÉtudiant en M1 - Future Développeuse Backend/Ingénieure DevOps </span>
+          <span className="text-[#2563EB]">Étudiante en M1 - Future Développeuse Backend/Ingénieure DevOps </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8">
           Concevoir des solutions logicielles évolutives, une ligne de code à la fois.
